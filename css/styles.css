@@ -1,6 +1,6 @@
 body{
     /* background-color: orange; */
-    background: linear-gradient(135deg, orange, orange 60%, cyan);
+    background: linear-gradient(45deg, orange, green);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
 }
